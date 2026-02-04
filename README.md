@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Panchanjali</h1>
+<h3 align="center">Undergraduate | BSc in Physical ICT in University of Sri Jayawardenapura </h3>
 <h3 align="center">Learning • Building • Exploring</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pancha-r&label=Profile%20views&color=0e75b6&style=flat" alt="pancha-r" /> </p>
