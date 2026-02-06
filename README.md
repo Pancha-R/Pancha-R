@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Panchanjali</h1>
 <h3 align="center">Undergraduate | BSc in Physical ICT in University of Sri Jayawardenapura </h3>
 <h3 align="center">Learning • Building • Exploring</h3>
